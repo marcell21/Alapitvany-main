@@ -1,0 +1,13 @@
+img{
+    float: right;
+    width: 200px;
+}
+.container{
+    background-color:cadetblue;
+}
+h2{
+    text-align: center;
+}
+.logo{
+    float: left;
+}
